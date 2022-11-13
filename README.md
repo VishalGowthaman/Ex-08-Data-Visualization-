@@ -208,46 +208,46 @@ df_corr.corr()
 
 # OUPUT
 ## Data Pre-Processing
-![Df](./out/df.png)</br>
-![Df](./out/head.png)</br>
-![Df](./out/info.png)</br>
-![Df](./out/null.png)</br>
-![Df](./out/shape.png)</br>
-![Df](./out/updateddf.png)</br>
-![Df](./out/withoutliers.png)</br>
-![Df](./out/withoutoutliers.png)
+![Df](./df.png)</br>
+![Df](./head.png)</br>
+![Df](./info.png)</br>
+![Df](./null.png)</br>
+![Df](./shape.png)</br>
+![Df](./updateddf.png)</br>
+![Df](./withoutliers.png)</br>
+![Df](./withoutoutliers.png)
 ## Which Segment has Highest sales?
-![Df](./out/1/1.png)
-![Df](./out/1/2.png)
+![Df](./1.png)
+![Df](./2.png)
 ## Which City has Highest profit?
-![Df](./out/2/1.png)
-![Df](./out/2/2.png)
+![Df](./1.png)
+![Df](./2.png)
 ## Which ship mode is profitable?
-![Df](./out/3/1.png)
-![Df](./out/3/2.png)
-![Df](./out/3/3.png)
-![Df](./out/3/4.png)
+![Df](./1.png)
+![Df](./2.png)
+![Df](./3.png)
+![Df](./4.png)
 ## Sales of the product based on region.
-![Df](./out/4/1.png)
-![Df](./out/4/2.png)
+![Df](./1.png)
+![Df](./2.png)
 ## Find the relation between sales and profit
-![Df](./out/5/1.png)</br>
-![Df](./out/5/3.png)</br>
-![Df](./out/5/2.png)
+![Df](./1.png)</br>
+![Df](./3.png)</br>
+![Df](./2.png)
 ## Heatmap
-![Df](./out/heat.png)
+![Df](./heat.png)
 ## Find the relation between sales and profit based on the following category.
 
 ### Segment
-![Df](./out/6/1.png)
+![Df](./1.png)
 ### City
-![Df](./out/6/2.png)
+![Df](./2.png)
 ### States
-![Df](./out/6/3.png)
+![Df](./3.png)
 ### Segment and Ship Mode
-![Df](./out/6/4.png)
+![Df](./4.png)
 ### Segment, Ship mode and Region
-![Df](./out/6/5.png)
+![Df](./5.png)
 
 # Result:
 Thus, Data Visualization is performed on the given dataset and save the data to a file.
