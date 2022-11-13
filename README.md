@@ -217,37 +217,37 @@ df_corr.corr()
 ![Df](./withoutliers.png)</br>
 ![Df](./withoutoutliers.png)
 ## Which Segment has Highest sales?
-![Df](./1/1.png)
+![Df](./1.png)
 ![Df](./2.png)
 ## Which City has Highest profit?
-![Df](./1.png)
-![Df](./2.png)
-## Which ship mode is profitable?
-![Df](./1.png)
-![Df](./2.png)
 ![Df](./3.png)
 ![Df](./4.png)
+## Which ship mode is profitable?
+![Df](./5.png)
+![Df](./6.png)
+![Df](./7.png)
+![Df](./8.png)
 ## Sales of the product based on region.
-![Df](./1.png)
-![Df](./2.png)
+![Df](./9.png)
+![Df](./10.png)
 ## Find the relation between sales and profit
-![Df](./1.png)</br>
-![Df](./3.png)</br>
-![Df](./2.png)
+![Df](./11.png)</br>
+![Df](./13.png)</br>
+![Df](./12.png)
 ## Heatmap
 ![Df](./heat.png)
 ## Find the relation between sales and profit based on the following category.
 
 ### Segment
-![Df](./1.png)
+![Df](./14.png)
 ### City
-![Df](./2.png)
+![Df](./15.png)
 ### States
-![Df](./3.png)
+![Df](./16.png)
 ### Segment and Ship Mode
-![Df](./4.png)
+![Df](./17.png)
 ### Segment, Ship mode and Region
-![Df](./5.png)
+![Df](./18.png)
 
 # Result:
 Thus, Data Visualization is performed on the given dataset and save the data to a file.
