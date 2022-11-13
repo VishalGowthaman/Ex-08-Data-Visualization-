@@ -17,6 +17,10 @@ Apply Feature generation and selection techniques to all the features of the dat
 Apply data visualization techniques to identify the patterns of the data.
 
 # CODE
+```
+Name: Vishal Gowthaman K.R
+Reg. no: 212221230123
+```
 ## Data Pre-Processing
 ```py
 import pandas as pd
