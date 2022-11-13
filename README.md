@@ -217,7 +217,7 @@ df_corr.corr()
 ![Df](./withoutliers.png)</br>
 ![Df](./withoutoutliers.png)
 ## Which Segment has Highest sales?
-![Df](./1.png)
+![Df](./1/1.png)
 ![Df](./2.png)
 ## Which City has Highest profit?
 ![Df](./1.png)
